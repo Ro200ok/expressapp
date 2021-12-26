@@ -31,7 +31,7 @@ app.use('/', homeRoutes)
 app.use('/add', addRoutes)
 app.use('/courses', coursesRoutes)
 
-// app.use(express.json());
+app.use(express.json());
 
 // app.use(express.bodyParser())
 
@@ -39,7 +39,7 @@ app.use('/courses', coursesRoutes)
 
 app.use(express.urlencoded({extended: true}))
 app.use(bodyParser.json())
-app.use(bodyParser.urlencoded({extended: true}))
+// app.use(bodyParser.urlencoded({extended: true}))
 
 // Port register
 const PORT = process.env.PORT || 3000
