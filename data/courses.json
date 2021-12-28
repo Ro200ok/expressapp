@@ -1,1 +1,16 @@
-[{"title": "Ttile1", "price":"5000","img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"}]
+[{
+    "title": "Vue JSs",
+    "price": "500",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+    "id": "970afb55-e3d5-4826-b5fa-aa161d4e9460"
+}, {
+    "title": "Angular",
+    "price": "500",
+    "img": "https://habrastorage.org/webt/d2/yw/h8/d2ywh8knslm8ttn9yfoln48gpic.jpeg",
+    "id": "3717f52c-f97b-4570-a930-47f0e46af70b"
+}, {
+    "title": "",
+    "price": "",
+    "img": "",
+    "id": "6142d27e-5e33-41f2-8a4c-e3bd1969eb12"
+}]
